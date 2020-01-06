@@ -5,6 +5,9 @@ initial algorithm proposed by Porter in 1980.
 
 
 ### Using The Library
-1. Download the package from Pypi ->https://pypi.org/project/Classic-Stemmer/0.1/
-2.Import the library-> import Classic_Stemmer.Classic_Stemmer as cs
-3.The cs.stem() function can be called on any string input to provide the stemmed output.
+#### 1. Download the package from Pypi ->
+https://pypi.org/project/Classic-Stemmer/0.1/
+#### 2.Import the library-> 
+ import Classic_Stemmer.Classic_Stemmer as cs
+#### 3.The cs.stem() function 
+The stem() function takes input string and outputs stemmed string.Usage details can be referred from Test.py file.
