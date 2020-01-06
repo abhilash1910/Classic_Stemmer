@@ -16,7 +16,7 @@ setup(
   author = 'ABHILASH MAJUMDER',
   author_email = 'abhilash.majumder@hsbc.co.in',
   url = 'https://github.com/abhilash1910/Classic_Stemmer',   
-  download_url = 'https://github.com/abhilash1910/Classic_Stemmer_package/archive/v_01.tar.gz',    
+  download_url = 'https://github.com/abhilash1910/Classic_Stemmer/archive/v_01.tar.gz',    
   keywords = ['stemmer', 'porter', 'porter stemmer','stemming','string','linguistics','computational'],   
   install_requires=[           
 
